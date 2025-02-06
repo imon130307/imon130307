@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">Hello, My name is  S.M.IMON and I'm a Full Stack Developer from Bangladesh.</p>
+<p align="left">I am a passionate Full Stack Web Developer with a strong background in building dynamic and responsive web applications. With expertise in front-end technologies like HTML, CSS, JavaScript, and modern frameworks such as React or Vue.js, combined with back-end proficiency in Node.js, Express, and databases like MongoDB and PostgreSQL, I bring a comprehensive approach to web development. I thrive on solving complex problems, optimizing performance, and creating seamless user experiences. Always eager to learn and adapt to new technologies, I am dedicated to delivering high-quality, scalable, and efficient solutions that meet client needs and industry standards.<br>- 🔭 I’m working as  fontend webdeveloper<br>- 📚 I'm currently learning  Next js<br>- ⚡ In my free time I pratice</p>
 
 ###
 
