@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="180" src="https://i.ibb.co.com/Tkv9M2F/MOHAMMAD-IMON-git.jpg"  />
+  <img height="280" src="https://i.ibb.co.com/SgKGbCr/Git-Hub-620by180.png"  />
 </div>
 
 ###
 
-<h1 align="center">S.M.IMON</h1>
+<h1 align="left">MOHAMMAD IMON</h1>
 
 ###
 
