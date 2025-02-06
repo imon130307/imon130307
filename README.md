@@ -8,11 +8,11 @@
 
 ###
 
-<h2 align="center">Full Stack Developer</h2>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="center">About me</p>
+<p align="left">Full Stack Developer</p>
 
 ###
 
